@@ -1,7 +1,7 @@
 # Build and Debug C++ Application with VSCode and MSVC
 
 Using VSCode as your main development IDE is quite interesting as it offers many features with the support of most programming languages.
-To develop C/C++ applications you need to have a separate compiler installed you can either use [MinGW](http://www.mingw.org/) or Microsoft Visual C++ compiler. In this tutorial, I'm giving you a brief tutorial about using VSCode to develop C/C++ applications with MVC on Windows.
+To develop C/C++ applications you need to have a separate compiler installed, you can either use [MinGW](http://www.mingw.org/) or Microsoft Visual C++ compiler. In this tutorial, I'm giving you a brief tutorial about using VSCode to develop C/C++ applications with MSVC on Windows.
 
 There is an official [tutorial](https://code.visualstudio.com/docs/cpp/config-msvc) about setting the environment but it may be unclear in some parts (e.g. it force you to use Development Command Prompt each time you open up VSCode). So I'm adding an alternative for those parts and create a custom build configuration.
 
