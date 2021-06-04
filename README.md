@@ -117,7 +117,3 @@ There is an official [tutorial](https://code.visualstudio.com/docs/cpp/config-ms
     This is a default configuration and I already change the `program` path. I also add a `preLaunchTask` to rebuild the project before launching the debug session.
 
 8. After creating the debug configuration you can put your breakpoints and launch the debug session with F5.
-
-## Resources
-
-All resource files can be accessed from my GitHub [repository](https://github.com/masoudr/vscode-cpp-development.git).
